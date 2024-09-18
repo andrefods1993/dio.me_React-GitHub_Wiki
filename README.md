@@ -1,12 +1,6 @@
 # React GitHub Wiki
 
-<<<<<<< HEAD
-![image]()
-=======
-<div align="center">
-<img src="https://github.com/andrefods1993/ReadME_Wizard/blob/main/public/assets/images/ReadMEWizard.png" width="400" />
-</div>
->>>>>>> 4c954fb019ecc4a98f6bdacd683c83ab64153c34
+![img](https://github.com/user-attachments/assets/9e4cf9a0-40cd-4d4d-9d20-ceb52562d78b)
 
 ## 📎 Sumário
 
@@ -79,6 +73,3 @@ Este projeto é uma aplicação em React que permite pesquisar usuários do GitH
 Este projeto é licenciado sobre a licença [MIT License](https://opensource.org/licenses/MIT) - veja [LICENSE](LICENSE) para mais informações.
 
 <span style="font-size: 10px;"> [ReadME Wizard](https://github.com/andrefods1993) </span>
-=======
-<span style="font-size: 10px;"> [ReadME Wizard](https://github.com/andrefods1993) </span>
->>>>>>> 4c954fb019ecc4a98f6bdacd683c83ab64153c34
