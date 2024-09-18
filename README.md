@@ -63,7 +63,6 @@ Este projeto é uma aplicação em React que permite pesquisar usuários do GitH
 
 [@andrefods1993](https://github.com/andrefods1993)
 
-<<<<<<< HEAD
 <h2 id="status">🎯 Status do projeto</h2>
 
 ✅ **Concluído**: O projeto foi finalizado e todas as funcionalidades planejadas foram implementadas.
