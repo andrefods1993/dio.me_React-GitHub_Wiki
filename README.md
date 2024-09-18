@@ -1,72 +1,84 @@
-# Getting Started with Create React App
+# React GitHub Wiki
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<<<<<<< HEAD
+![image]()
+=======
+<div align="center">
+<img src="https://github.com/andrefods1993/ReadME_Wizard/blob/main/public/assets/images/ReadMEWizard.png" width="400" />
+</div>
+>>>>>>> 4c954fb019ecc4a98f6bdacd683c83ab64153c34
 
-## Available Scripts
+## 📎 Sumário
 
-In the project directory, you can run:
+-   [📝 Descrição](#description)
+-   [🔧 Tecnologias](#skills)
+-   [📚 Funcionalidades](#functionalities)
+-   [🚀 Demonstração](#demo)
+-   [🧑🏾‍💻 Colaboradores](#contributor)
+-   [🎯 Status](#status)
+-   [🧑🏾‍💻 Licença](#license)
 
-### `npm start`
+<h2 id="description">📝 Descrição</h2>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Este projeto é uma aplicação em React que permite pesquisar usuários do GitHub e exibir seus dados e repositórios. Utilizando a API do GitHub, a aplicação busca informações sobre o usuário e exibe uma lista de repositórios com links para cada um deles.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h2 id="skills">🔧 Tecnologias</h2>
 
-### `npm test`
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,npm,react)](https://skillicons.dev)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h2 id="functionalities">📚 Funcionalidades</h2>
 
-### `npm run build`
+- Pesquisar usuários do GitHub.
+- Exibir detalhes do usuário (nome, avatar, biografia, número de repositórios, etc.).
+- Listar os repositórios do usuário, com links diretos para cada um no GitHub.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h2 id="demo">🚀 Demonstração</h2>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. **Clone o repositório:**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+   cd seu-repositorio
+   ```
 
-### `npm run eject`
+2. **Instale as dependências:**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   ```bash
+   npm install
+   ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. **Execute a aplicação:**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+   ```bash
+   npm start
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4. **Acesse no navegador:**
 
-## Learn More
+   ```
+   http://localhost:3000
+   ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Como Utilizar
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Digite o nome de usuário do GitHub que deseja pesquisar na barra de busca.
+2. A aplicação exibirá o perfil do usuário, incluindo nome, avatar, e bio.
+3. Abaixo, será exibida uma lista com todos os repositórios públicos do usuário, contendo links diretos para os repositórios.
 
-### Code Splitting
+<h2 id="contributor">🧑🏾‍💻 Colaboradores</h2>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+[@andrefods1993](https://github.com/andrefods1993)
 
-### Analyzing the Bundle Size
+<<<<<<< HEAD
+<h2 id="status">🎯 Status do projeto</h2>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+✅ **Concluído**: O projeto foi finalizado e todas as funcionalidades planejadas foram implementadas.
 
-### Making a Progressive Web App
+<h2 id="license">📄 Licença</h2>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Este projeto é licenciado sobre a licença [MIT License](https://opensource.org/licenses/MIT) - veja [LICENSE](LICENSE) para mais informações.
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# dio.me_React-GitHub_Wiki
-# dio.me_React-GitHub_Wiki
+<span style="font-size: 10px;"> [ReadME Wizard](https://github.com/andrefods1993) </span>
+=======
+<span style="font-size: 10px;"> [ReadME Wizard](https://github.com/andrefods1993) </span>
+>>>>>>> 4c954fb019ecc4a98f6bdacd683c83ab64153c34
